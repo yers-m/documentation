@@ -1,6 +1,6 @@
 # Clinical Trials
 ## Reported by 2015_Whitaker 
-* [[2015_Whitaker]](https://doi.org/10.1210/jc.2014-4060)
+* [📖](https://doi.org/10.1210/jc.2014-4060 "Whitaker, 2015")
     * EudraCT number: 2013-000260-28
     * NCT02777268
     * Phase 1 Trial
@@ -43,12 +43,12 @@
 
 ![Study design of the clinical tria](./screenshots/study_design_2015_Whitaker.png)
 
-*Summary of study design of the clinical trial. Figure was adopted from [2018_Melin](https://doi.org/10.1007/s40262-017-0575-8).*
+*Summary of study design of the clinical trial. Figure was adopted from [📖](https://doi.org/10.1007/s40262-017-0575-8 "Melin, 2018").*
 
 ---
 
 ## Reported by 2016_Debono 
-* [[2016_Debono]](https://doi.org/10.1210/jc.2015-3694)
+* [📖](https://doi.org/10.1210/jc.2015-3694 "Debono, 2016")
     * EudraCT number: 2013-000259-42
     * NCT01960530
     * Phase 1 Trial
@@ -93,7 +93,7 @@
                 * intra-assay variability 9.6% between [4.14 and 553] nmol/L
                 * inter-assay variability 3.7% between [4.14 and 553] nmol/L
                 * Accuracy <5% between [0.5, 300] nmol/L
-        * CBG [[2003_Lewis]](https://doi.org/10.1016/s0009-8981(02)00417-5)
+        * CBG [📖](https://doi.org/10.1016/s0009-8981(02)00417-5 "Lewis, 2003")
             * ELISA (Biovendor, Czech republic, Brno)
                 * LLOQ of 3.13 ng/mL
                 * intra-assay variability < 3.0%
@@ -108,16 +108,16 @@
                 * LLOQ of 0.80 nmol/L
                 * intra-assay variability <8.0%
                 * inter-assay variability <9.5%
-                * Accuracy <10.4% for concentrations between [2.7, 72.0] nmol/L [[2012_Jones]](https://doi.org/10.1016/j.jchromb.2011.11.036)
+                * Accuracy <10.4% for concentrations between [2.7, 72.0] nmol/L [📖](https://doi.org/10.1016/j.jchromb.2011.11.036 "Jones, 2012")
 
 ![Study design of the clinical trial](./screenshots/study_design_2016_Debono.png)
 
-*Summey of study design of the clinical trial. Figure was adopted from [2018_Melin](https://doi.org/10.1007/s40262-017-0575-8).*
+*Summary of study design of the clinical trial. Figure was adopted from [📖](https://doi.org/10.1007/s40262-017-0575-8 "Melin, 2018").*
 
 ---
 
 ## Reported by Charite 
-* [[2016_Debono]](https://doi.org/10.1210/jc.2015-3694)
+* [📖](https://doi.org/10.1210/jc.2015-3694 "Debono, 2016")
     * EudraCT number: 2014-002265-30 
     * Phase 3 Trial
     * Institute of Experimental Paediatric Endocrinology at Charite-Universitätsmedizin Berlin
@@ -144,13 +144,13 @@
 
 ![Study design of the clinical trial](./screenshots/study_design_2014_Charite.png)
 
-*Study design of the clinical trial. Figure was adopted from [PhD thesis of Johanna Melin](https://refubium.fu-berlin.de/handle/fub188/23620).*
+*Study design of the clinical trial. Figure was adopted from [📖](https://refubium.fu-berlin.de/handle/fub188/23620 "PhD thesis of Johanna Melin").*
 
 ---
 
 ## Studies by Charmandari  
-* [[2001b_Charmandari]](https://doi.org/10.1210/jcem.86.10.7972)
-* [[2001c_Charmandari]](https://doi.org/10.1677/joe.0.1690065)
+* [📖](https://doi.org/10.1210/jcem.86.10.7972 "Charmandari, 2001b")
+* [📖](https://doi.org/10.1677/joe.0.1690065 "Charmandari, 2001c")
 * n=42
 * classical 21-hydroxylase deficiency
 * age: 7-17 years
@@ -183,7 +183,7 @@
     * 15 mg/$m^2$
 * Measurements 
     * Total plasma cortisol concentrations ($C_{tot}$) 
-        * [[2001b_Charmandari]](https://doi.org/10.1210/jcem.86.10.7972)
+        * [📖](https://doi.org/10.1210/jcem.86.10.7972 "Charmandari, 2001b")
         * {iv} every 10 min up to 6 h post dose
         * {po} every 20 min up to 24 h
         * solid phase radioimmune assay
@@ -193,7 +193,7 @@
                 * 6.3% for 138 nmol
                 * 4.5% for 276 nmol
     * 17-OHP 
-        * [[2001c_Charmandari]](https://doi.org/10.1677/joe.0.1690065)
+        * [📖](https://doi.org/10.1677/joe.0.1690065 "Charmandari, 2001c")
         * {po} every 20 min up to 24 h
         * solid phase radioimmune assay
             * Coat-A-Count, DPC, Los Angeles, CA, USA
