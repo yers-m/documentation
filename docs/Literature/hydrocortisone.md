@@ -75,7 +75,7 @@
         - unidirectional
         - approx. 1%
 
-![Cortisol](./figures/cortisol_metabolic_pathways.svg)
+<center>![Cortisol](./figures/cortisol_metabolic_pathways.svg)</center>
 
 *Metabolic pathway of cortisol. Figures were adapted from [PhD thesis of Johanna Melin](https://refubium.fu-berlin.de/handle/fub188/23620). Created using [diagrams.net](https://app.diagrams.net/)*
 

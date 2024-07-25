@@ -41,7 +41,7 @@
 
 ## Genetic background 
 
-![CAH Mutations](./screenshots/CAH_mutations.png)
+<center>![CAH Mutations](./screenshots/CAH_mutations.png)</center>
 
 *Figure from [[📖]](https://doi.org/10.1210/jc.2018-01865 "Speiser, 2018").*
 

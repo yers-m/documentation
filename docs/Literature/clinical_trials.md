@@ -41,7 +41,8 @@
             * LLOQ 1.38 nmol/L
             * intra-assay variability <15% at LLOQ and <10% for 22–552 nmol/L
 
-![Study design of the clinical tria](./screenshots/study_design_2015_Whitaker.png)
+<center>![Study design of the clinical tria](./screenshots/study_design_2015_Whitaker.png)
+</center>
 
 *Summary of study design of the clinical trial. Figure was adopted from [[📖]](https://doi.org/10.1007/s40262-017-0575-8 "Melin, 2018").*
 
@@ -110,7 +111,8 @@
                 * inter-assay variability <9.5%
                 * Accuracy <10.4% for concentrations between [2.7, 72.0] nmol/L [[📖]](https://doi.org/10.1016/j.jchromb.2011.11.036 "Jones, 2012")
 
-![Study design of the clinical trial](./screenshots/study_design_2016_Debono.png)
+<center>![Study design of the clinical trial](./screenshots/study_design_2016_Debono.png)
+</center>
 
 *Summary of study design of the clinical trial. Figure was adopted from [[📖]](https://doi.org/10.1007/s40262-017-0575-8 "Melin, 2018").*
 
@@ -142,7 +144,8 @@
         * performed at Simbec Research Ltd (Merthyr Tydfil, UK)
     * albumin
 
-![Study design of the clinical trial](./screenshots/study_design_2014_Charite.png)
+<center>![Study design of the clinical trial](./screenshots/study_design_2014_Charite.png)
+</center>
 
 *Study design of the clinical trial. Figure was adopted from [[📖]](https://refubium.fu-berlin.de/handle/fub188/23620 "PhD thesis of Johanna Melin").*
 

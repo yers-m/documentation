@@ -10,8 +10,10 @@
 * Initial parameter estimates have an important role [[📖]](https://doi.org/10.1111/bcp.12179 "2015_Sale")
     * estimation can be “trapped” gradient search in local OFV minima, and “mask” the global minimum 
 
-![](./screenshots/parameter_estimation.png)
- *Figure was adopted from [[📖]](https://doi.org/10.1111/bcp.12179 "2015_Sale").*
+<center>![](./screenshots/parameter_estimation.png)
+</center>
+
+*Figure was adopted from [[📖]](https://doi.org/10.1111/bcp.12179 "2015_Sale").*
 
 ---
 
