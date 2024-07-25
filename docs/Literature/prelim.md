@@ -1,7 +1,7 @@
 # Preliminary research
 
 ## JMe_1
-* Published information from [2018_Melin](https://doi.org/10.1007/s40262-017-0575-8)
+* Published information from [[📖]](https://doi.org/10.1007/s40262-017-0575-8 "Melin, 2018")
 
 ### Population Pharmacokinetic Analysis
 * NONMEM 7.3 and Perl speaks NONMEM (PsN 4.4.0)
@@ -60,7 +60,7 @@ $$\frac{dA_{depot}}{dt} = \frac{-V_{max} \cdot A_{depot}}{K_m + A_{depot}}$$
     * nested models: likelihood ratio test 
     * unnested models: AIC
 * binding model evaluation
-    * using VPC with plasma protein binding data from [[1999_Lentjes]](https://doi.org/10.1210/jcem.84.2.5461)
+    * using VPC with plasma protein binding data from [[📖]](https://doi.org/10.1210/jcem.84.2.5461 "1999_Lentjes")
 
 #### Simulations
 * simulated in R 3.3.0
@@ -73,7 +73,7 @@ $$\frac{dA_{depot}}{dt} = \frac{-V_{max} \cdot A_{depot}}{K_m + A_{depot}}$$
     * different BW (5–100 kg) and the typical CBG concentration
     * $C_{max}$ and AUC
         * 2.2–18.5 years
-        * was analysed and compared to literature data [[1997_Knutsson]](https://doi.org/10.1210/jcem.82.2.3769)
+        * was analysed and compared to literature data [[📖]](https://doi.org/10.1210/jcem.82.2.3769 "1997_Knutsson")
     * $C_{max}$
         * 25th–75th percentiles of the Cmax for the morning peak in children
     * AUC comparison range 
@@ -95,3 +95,4 @@ $$\frac{dA_{depot}}{dt} = \frac{-V_{max} \cdot A_{depot}}{K_m + A_{depot}}$$
 *
 
 ---
+

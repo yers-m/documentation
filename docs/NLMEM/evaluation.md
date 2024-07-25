@@ -4,7 +4,7 @@
 * **Objective Function Value**
 * minimising the -2LL
 * lower OFV indicates a better fit
-* likelihood ratio test [[2014_Owen]](https://doi.org/10.1038%2Fpsp.2014.51)
+* likelihood ratio test [[📖]](https://doi.org/10.1038%2Fpsp.2014.51 "2014_Owen")
     * for nested models (complex models which can be collapsed to the simpler one)
     * not useful to compare distinct models
     * $χ^2$ distribution
@@ -42,7 +42,7 @@ $$OFV_{ELS} = \sum_{i=1}^{n} \left[ \frac{(y_i - \hat{y}_i)^2}{\text{var}(y_i)} 
 ### <kbd>**AIC**</kbd>
 * **Akaike Information Criterion**
 * penalties are applied as a function of increased number of parameters
-* [[1974_Akaike]](https://doi.org/10.1007/978-1-4612-1694-0_16) [[2006_Bonate]](https://doi.org/10.1007/b138744) 
+* [[📖]](https://doi.org/10.1007/978-1-4612-1694-0_16 "1974_Akaike") [[📖]](https://doi.org/10.1007/b138744 "2006_Bonate") 
     * not nested 
     * lower AIC indicates the better fit 
 
@@ -50,8 +50,7 @@ $$AIC=OFV+2 \cdot p$$
 
 ### <kbd>**BIC**</kbd>
 * **Bayesian Information Criterion**
-* penalties are applied as a function of increased number of parameters [[2014_Delattre]](http://dx.doi.org/10.1214/14-EJS890)
-* [1978_Schwarz](https://doi.org/10.1214/aos/1176344136)
+* penalties are applied as a function of increased number of parameters [[📖]](http://dx.doi.org/10.1214/14-EJS890 "2014_Delattre") [[📖]](https://doi.org/10.1214/aos/1176344136 "1978_Schwarz")
     * not nested 
     * lower BIC indicates the better fit 
 
@@ -68,15 +67,15 @@ $$
 
 
 ## Graphical evaluation
-* models can be evaluated by visual examination of data plots [[1992_Mandema]](https://doi.org/10.1007/bf01061469)
+* models can be evaluated by visual examination of data plots [[📖]](https://doi.org/10.1007/bf01061469 "1992_Mandema")
 
 ### <kbd>**GOF**</kbd>
 * **Standard Goodness of Fit**
 * comparison of the predicted versus the observed concentrations
 * observations should be scattered evenly around the line of identity
 * **CWRES** (conditional weighted residuals)
-    * adjusted based on the FOCE approximation [[2007_Hooker]](https://doi.org/10.1007/s11095-007-9361-x)
-    * should be [[2013_Mould]](https://doi.org/10.1038/psp.2013.14)
+    * adjusted based on the FOCE approximation [[📖]](https://doi.org/10.1007/s11095-007-9361-x "2007_Hooker")
+    * should be [[📖]](https://doi.org/10.1038/psp.2013.14 "2013_Mould")
         * close to zero (± 2 SD)
         * randomly scattered around zero
 * CWRES vs. population predictions
@@ -88,20 +87,20 @@ $$
 
 ### <kbd>**VPC**</kbd>
 * **Visual Predictive Check**
-* model diagnostics [[2008_Karlsson]](https://www.page-meeting.org/?abstract=1434)
+* model diagnostics [[📖]](https://www.page-meeting.org/?abstract=1434 "2008_Karlsson")
     * constructing simulated data using the developed model and 
     * comparing it with the existing dataset 
 * simulation-based graphical evaluation
 * to evaluate predictive performance of a model
 * the ability of a model to reproduce the observed data
-* procedure [[2011_Bergstrand]](https://doi.org/10.1208%2Fs12248-011-9255-z)
+* procedure [[📖]](https://doi.org/10.1208%2Fs12248-011-9255-z "2011_Bergstrand")
     * The percentiles of interest (commonly 5th,50th and 95th)
     * the confidence interval of respective percentiles for the simulated concentrations
     * compared graphically with the same percentiles of the observed concentrations
     * derived for selected time ranges (bins) 
     * not at every time to ease the comparison
-* percentiles of the simulated and observed data are compared graphically [[2008_Holford]](https://www.page-meeting.org/?abstract=1434)
-* Categorical VPC is a useful tool to evaluate performance for categorical data [[2009_Bergstrand]](https://doi.org/10.1208/s12248-009-9112-5)
+* percentiles of the simulated and observed data are compared graphically [[📖]](https://www.page-meeting.org/?abstract=1434 "2008_Holford")
+* Categorical VPC is a useful tool to evaluate performance for categorical data [[📖]](https://doi.org/10.1208/s12248-009-9112-5 "2009_Bergstrand")
 
 
 ---
@@ -114,7 +113,7 @@ $$
         *  the square root of the diagonal elements in variance-covariance matrix
 * **%RSE** relative standard error
     * to evaluate parameter precision for fixed-effects
-    * <30% are acceptable [[2014_Owen]](https://doi.org/10.1038%2Fpsp.2014.51)
+    * <30% are acceptable [[📖]](https://doi.org/10.1038%2Fpsp.2014.51 "2014_Owen")
 
 $$RSE(\theta) = 100 \cdot \frac{SE(\theta)}{\theta}$$
 
@@ -122,14 +121,14 @@ $$RSE(\theta) = 100 \cdot \frac{SE(\theta)}{\theta}$$
 > $SE(θ)$ standard error of the population parameter.
 
 * **%RSE** <u>for random-effects parameters</u>
-    * 40-50% is acceptable [[2014_Owen]](https://doi.org/10.1038%2Fpsp.2014.51)
+    * 40-50% is acceptable [[📖]](https://doi.org/10.1038%2Fpsp.2014.51 "2014_Owen")
 
 $$RSE(\omega^2) = 100 \cdot \frac{SE(\omega^2)}{2 \cdot \omega^2}$$
 
 > $\omega^2$ final variance; <br>
 > $SE(\omega^2)$ standard error of final variance.
 
-* Bootstrap method [[2005_Lindbom]](https://doi.org/10.1016/j.cmpb.2005.04.005)
+* Bootstrap method [[📖]](https://doi.org/10.1016/j.cmpb.2005.04.005 "2005_Lindbom")
     * generated from the original dataset
     * sampling individuals with replacement
     * new parameter estimates are generated 
@@ -142,7 +141,7 @@ $$RSE(\omega^2) = 100 \cdot \frac{SE(\omega^2)}{2 \cdot \omega^2}$$
     * surface of the likelihood between the full and reduced model
         * re-estimation by fixing the respective parameter to a slightly different estimate (e.g. ±5% or ±20%) 
         * until the selected significant difference in likelihood (e.g. ΔOFV: 3.84, df=1, α=0.05) is achieved
-        * the lower and upper boarder of the 95% confidence interval for the parameter has been reached [[2014_Owen]](https://doi.org/10.1038%2Fpsp.2014.51) [[2018_PsN_LLP]](https://uupharmacometrics.github.io/PsN/docs.html)
+        * the lower and upper boarder of the 95% confidence interval for the parameter has been reached [[📖]](https://doi.org/10.1038%2Fpsp.2014.51 "2014_Owen") [[📖]](https://uupharmacometrics.github.io/PsN/docs.html "2018_PsN_LLP")
 
 ### Influential Individuals
 * may have a large impact on 
@@ -152,7 +151,7 @@ $$RSE(\omega^2) = 100 \cdot \frac{SE(\omega^2)}{2 \cdot \omega^2}$$
 * Case-deletion diagnostics
     * new datasets where one individual has been removed
     * influential individual if
-        * a relative change in parameter estimates of ±20% [[2011_Bonate]](https://doi.org/10.1007/b138744)
+        * a relative change in parameter estimates of ±20% [[📖]](https://doi.org/10.1007/b138744 "2011_Bonate")
 
 ---
 
@@ -169,4 +168,5 @@ $$RSE(\omega^2) = 100 \cdot \frac{SE(\omega^2)}{2 \cdot \omega^2}$$
     * to compare different dosing scenarios
 
 ---
+
 

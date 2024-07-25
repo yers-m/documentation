@@ -2,7 +2,7 @@
 * to consider the baseline values observed before and after treatment 
     * e.g. endogenous synthesis of cortisol
     * e.g. endogenous biomarker (17-OHP)
-* 4 types of methods [[2008_Dansirikul]](https://doi.org/10.1007/s10928-008-9088-2)
+* 4 types of methods [[📖]](https://doi.org/10.1007/s10928-008-9088-2 "Dansirikul, 2008")
 
 ---
 
