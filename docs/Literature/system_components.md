@@ -8,11 +8,13 @@
     * IUPAC name: 11β,17α,21-Trihydroxypregn-4-ene-3,20-dione
     * Molecule Type: Small molecule
 
-![Chemical Structure of Cortisol](./screenshots/cortisol_chembl.png)
+<center>![Chemical Structure of Cortisol](./screenshots/cortisol_chembl.png)</center>
 
 *Chemical Structure of Cortisol. Figure from [ChEMBL](https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL389621/).*
 
-![Cortisol structure created in Python by the py3Dmol tool](./figures/py3Dmol_cortisol.png)
+
+<center>![Cortisol structure created in Python by the py3Dmol tool](./figures/py3Dmol_cortisol.png)
+</center>
 
 *Chemical structure of Cortisol. Created using py3Dmol tool.*
 
