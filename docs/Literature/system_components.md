@@ -55,8 +55,8 @@
 * lower in neonates, whereas infants had reached adult values
 * 3D structure [[📖]](https://doi.org/10.1074/jbc.m705014200 "2007_Klieber")
 
-![CBG Structure created by py3Dmol tool](./figures/py3Dmol_CBG.png)
-
+<center>![CBG Structure created by py3Dmol tool](./figures/py3Dmol_CBG.png)
+</center>
 
 *Chemical structure of CBG. Created using py3Dmol tool.*
 
@@ -78,7 +78,8 @@
 * conc. range of 12-36 nmol/L -> target for therapy [[📖]](https://doi.org/10.1016/s0140-6736(05)66736-0 "2005_Merke")
     + note: when measured in the early morning before medication
 
-![17-OHP Structure created by py3Dmol tool](./figures/py3Dmol_17-OHP.png)
+<center>
+![17-OHP Structure created by py3Dmol tool](./figures/py3Dmol_17-OHP.png)</center>
 
 *Chemical structure of 17-OHP. Created using py3Dmol tool.*
 
@@ -120,8 +121,8 @@
 * Steroid synthesis of mineralocorticoids, glucocorticoids and androgens
 * healthy and CAH
 
-![Pathway in a Healthy Individual](./screenshots/pathway_healthy.png)
-![Pathway in an Individual with CAH](./screenshots/pathway_CAH.png)
+<center>![Pathway in a Healthy Individual](./screenshots/pathway_healthy.png)
+![Pathway in an Individual with CAH](./screenshots/pathway_CAH.png)</center>
 
 *Steroid synthesis pathway. Figures were adopted from [PhD thesis of Johanna Melin](https://refubium.fu-berlin.de/handle/fub188/23620).*
 
